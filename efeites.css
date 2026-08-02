@@ -1,0 +1,67 @@
+body{
+            background-color: red;
+        }
+        .maininput{
+            font-size: 50px;
+            color: whitesmoke;
+            font-weight:400px ;
+        }
+        .calculo{
+            margin: auto;
+            background-color:black;
+            border: 2px solid whitesmoke;
+            width: 25%;
+            height:510px;
+            border-radius:10px;
+            box-shadow: 10px 10px 40px;
+        }
+        .maininput{
+            background-color: rgb(73, 37, 37);
+            border:1px solid grey;
+            height: 100px;
+            width: 98.2%;
+        }
+      .numbtn{
+            padding: 20px 25px;
+            border-radius: 15px;
+            font-weight: 600;
+            font-size: x-large;
+            background-color: grey;
+        }
+.numbtn:hover{
+    background-color: brown;
+    color: whitesmoke;
+}
+    .calculobtn{
+        padding: 20px 30px;
+        border-radius: 20px;
+        font-weight: 600;
+        font-size: x-large;
+      background-color: rgb(218, 222, 223);
+    }
+   .calculobtn:hover{
+    background-color: rgb(199, 34, 34);
+    color: rgb(230, 230, 230);
+}
+.C{
+        padding: 20px 25px;
+        border-radius: 15px;
+        font-weight: 600;
+        font-size: x-large;
+        background-color: rgb(8, 241, 241);
+}
+.c:hover{
+    background-color: rgb(199, 34, 34);
+    color: rgb(230, 230, 230);
+}
+.igual{
+        padding: 20px 25px;
+        border-radius: 15px;
+        font-weight: 600;
+        font-size: x-large;
+        background-color: green;
+    }
+.igual:hover{
+    background-color: rgb(199, 34, 34);
+    color: whitesmoke;
+}
